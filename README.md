@@ -1,6 +1,8 @@
 <h2>Clover 5142 EFI for Dell Latitude 5480 on Monterey (and Big sur)</h2>
+![Uploading Screen Shot 2021-11-08 at 20.09.09.png…]()
 <h4>My Specs</h4>
 <ul>
+ <li>Resolution : 1366x768</li>
  <li>CPU : i5 6300U</li>
  <li>iGPU : HD Graphics 520</li>
  <li>RAM : 2x8Gb SK Hynix 2400MHz DDR4 (runs at 2133MHz)</li>
