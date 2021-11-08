@@ -1,6 +1,6 @@
 EFI for Dell Latitude 5480 on Monterey and (Big sur)
 
-My Specs
+*My Specs*
 <ul>
   <li>CPU : i5 6300U</li>
 <li>iGPU : HD Graphics 520</li>
