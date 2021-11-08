@@ -1,5 +1,5 @@
 <h2>**EFI for Dell Latitude 5480 on Monterey and (Big sur)**</h2>
-<br><br><br>
+<br>
 *My Specs*
 <ul>
  <li>CPU : i5 6300U</li>
