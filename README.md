@@ -8,7 +8,6 @@
  <li>SSD : Stock 256Gb Intel M.2 SATA III</li>
  ...
 </ul>
-<br>
 <h6>What's not Working :</h6>
 <ul>
  <li>Bluetooth detects other devices but can't maintain the connection (therefore, Airdrop too isn't working)</li>
@@ -16,7 +15,6 @@
  <li>Fan Control, Undected by 3rd party apps, but are working</li>
  <li>Brightness Keys (F11 and F12)</li>
 </ul>
-<br>
 <h6>What's Working :</h6>
 <ul>
   <li>HDMI with Audio</li>
