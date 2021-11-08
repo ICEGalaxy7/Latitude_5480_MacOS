@@ -1,6 +1,6 @@
 <h2>Clover 5142 EFI for Dell Latitude 5480 on Monterey (and Big sur)</h2>
 ![Screenshot](https://user-images.githubusercontent.com/93940095/140804252-1ce774ed-0c04-4dcb-904b-3f8194ef685a.png)
-<h4> Important : this EFI is meant for Monterey, if you're willing to boot into Big Sur, please make sure you remove "BlutoothFixup.kext" from /EFI/Clover/Kexts/other, make sure you replace the "Airportitlwm.kext" with This 'https://github.com/OpenIntelWireless/itlwm/releases/download/v2.0.0/AirportItlwm_v2.0.0_stable_BigSur.kext.zip' in order for WiFi to work !</h4>
+<h4> Important : this EFI is meant for Monterey, if you're willing to boot into Big Sur, please make sure you remove "BlutoothFixup.kext" from /EFI/Clover/Kexts/other, make sure you replace the "Airportitlwm.kext" with [This](https://github.com/OpenIntelWireless/itlwm/releases/download/v2.0.0/AirportItlwm_v2.0.0_stable_BigSur.kext.zip) in order for WiFi to work !</h4>
  <br>
 <h4>My Specs</h4>
 <ul>
