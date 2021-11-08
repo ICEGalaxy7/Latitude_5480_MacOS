@@ -26,6 +26,6 @@
   <li>and almost everything I can recall...</li>
 </ul>
 <br><br>
-I was able to achieve this thanks to the help of Jake Lo from [osxlatitude](https://osxlatitude.com) :-)
+I was able to achieve this thanks to the help of Jake Lo from https://osxlatitude.com :-)
 <br>
 Note : I am a noob
