@@ -1,4 +1,4 @@
-<h2>**EFI for Dell Latitude 5480 on Monterey and (Big sur)**</h2>
+<h2>EFI for Dell Latitude 5480 on Monterey and (Big sur)</h2>
 <br>
 *My Specs*
 <ul>
