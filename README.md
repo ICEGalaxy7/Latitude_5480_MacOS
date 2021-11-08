@@ -26,7 +26,8 @@ What's Working :
   <li>Keyboard and Touchpad with Gestures</li>
 </ul>
 and almost everything I can recall...
-<br><br>
+<br>
+<br>
 I was able to achieve this thanks to the help of Jake Lo from [osxlatitude](https://osxlatitude.com) :-)
 
 Note : I am a noob
