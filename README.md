@@ -1,5 +1,6 @@
 <h2>Clover 5142 EFI for Dell Latitude 5480 on Monterey (and Big sur)</h2>
-[Screenshot](https://user-images.githubusercontent.com/93940095/140803800-666c71a8-48f2-44e6-bb06-b102311e35b4.png)
+![Screen Shot 2021-11-08 at 20 09 09](https://user-images.githubusercontent.com/93940095/140804252-1ce774ed-0c04-4dcb-904b-3f8194ef685a.png)
+
 <h4>My Specs</h4>
 <ul>
  <li>Resolution : 1366x768</li>
