@@ -9,7 +9,6 @@
  <li>SSD : Stock 256Gb Intel M.2 SATA III</li>
  ...
 </ul>
-
 <br>
 <h6>What's not Working :</h6>
 <ul>
@@ -27,7 +26,7 @@
   <li>Keyboard and Touchpad with Gestures</li>
  and almost everything I can recall...
 </ul>
-<br><br><br>
+<br><br>
 I was able to achieve this thanks to the help of Jake Lo from [osxlatitude](https://osxlatitude.com) :-)
 <br>
 Note : I am a noob
