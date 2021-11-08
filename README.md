@@ -1,5 +1,5 @@
 **EFI for Dell Latitude 5480 on Monterey and (Big sur)**
-
+<br>
 *My Specs*
 <ul>
  <li>CPU : i5 6300U</li>
@@ -27,7 +27,5 @@ What's Working :
 </ul>
 and almost everything I can recall...
 <br>
-<br>
 I was able to achieve this thanks to the help of Jake Lo from [osxlatitude](https://osxlatitude.com) :-)
-
 Note : I am a noob
