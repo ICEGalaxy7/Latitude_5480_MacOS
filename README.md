@@ -21,7 +21,8 @@
   <li>Headphone Jack</li>
   <li>VGA</li>
   <li>Keyboard and Touchpad with Gestures</li>
-</ul>and almost everything I can recall...
+and almost everything I can recall...
+</ul>
 <br><br>
 I was able to achieve this thanks to the help of Jake Lo from [osxlatitude](https://osxlatitude.com) :-)
 <br>
