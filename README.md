@@ -11,7 +11,7 @@
 </ul>
 
 <br>
-What's not Working : 
+<h6>What's not Working :</h6>
 <ul>
  <li>Bluetooth detects other devices but can't maintain the connection (therefore, Airdrop too isn't working)</li>
  <li>SD Card Reader Not Tested but a kext for it is included</li>
@@ -19,7 +19,7 @@ What's not Working :
  <li>Brightness Keys (F11 and F12)</li>
 </ul>
 <br>
-What's Working :
+<h6>What's Working :</h6>
 <ul>
   <li>HDMI with Audio</li>
   <li>Headphone Jack</li>
