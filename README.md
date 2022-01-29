@@ -13,7 +13,7 @@
 </ul>
 <h6>What's not Working :</h6>
 <ul>
- <li>Bluetooth detects other devices but can't maintain the connection (therefore, Airdrop too isn't working)</li>
+ <li>Airdrop</li>
  <li>SD Card Reader Not Tested but should work</li>
  <li>Fan Control, Undected by 3rd party apps, but are working</li>
  <li>Brightness Keys (F11 and F12)</li>
