@@ -2,7 +2,7 @@
 ![Screenshot](https://user-images.githubusercontent.com/93940095/140804252-1ce774ed-0c04-4dcb-904b-3f8194ef685a.png)
  <br>
 <h4>Notes</h4>
-<h6>use Heliport for WLAN</h6>
+<p>use Heliport for WLAN</p>
 <h4>My Specs</h4>
 <ul>
  <li>Resolution : 1366x768</li>
@@ -13,14 +13,14 @@
  <li>SSD : Stock 256Gb Intel M.2 SATA III</li>
  ...
 </ul>
-<h6>What's not Working :</h6>
+<h4>What's not Working :</h4>
 <ul>
  <li>HDMI Audio</li>
  <li>Bluetooth and Airdrop not tested</li>
  <li>Fan Control, Undected by 3rd party apps, but are working</li>
  <li>Brightness Keys (F11 and F12, use F6 and Fn+B instead)</li>
 </ul>
-<h6>What's Working :</h6>
+<h4>What's Working :</h4>
 <ul>
   <li>HDMI display</li>
   <li>Headphone Jack</li>
