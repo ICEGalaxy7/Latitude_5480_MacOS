@@ -1,4 +1,4 @@
-<h2>Clover EFI for Dell Latitude 5480 on Monterey (and Big sur)</h2>
+<h2>Clover EFI for Dell Latitude 5480 on Sequoia</h2>
 ![Screenshot](https://user-images.githubusercontent.com/93940095/140804252-1ce774ed-0c04-4dcb-904b-3f8194ef685a.png)
  <br>
 <h4>Notes</h4>
@@ -10,7 +10,7 @@
  <li>iGPU : HD Graphics 520</li>
  <li>RAM : 2x8Gb SK Hynix 2400MHz DDR4 (runs at 2133MHz)</li>
  <li>Audio : Realtek ALC256</li>
- <li>SSD : Stock 256Gb Intel M.2 SATA III</li>
+ <li>SSD : 512Gb M.2 NVMe Sabrent Rocket</li>
  ...
 </ul>
 <h4>What's not Working :</h4>
@@ -30,4 +30,4 @@
   <li>and almost everything I can recall...</li>
 </ul>
 <br><br>
-I was able to achieve this thanks to the help of Jake Lo from https://osxlatitude.com
+I was able to achieve this thanks to the help of Jake Lo from https://osx latitude.com
